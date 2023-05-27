@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PR-7_PR-21.101-Ivanchikov</string>
+    <string name="button">Register</string>
+    <string name="b">Nme</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+    <string name="button6">Button6</string>
+    <string name="textview">TextView</string>
+</resources>
